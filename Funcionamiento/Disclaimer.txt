@@ -1,0 +1,13 @@
+Ing.
+Este mensaje lo escribimos como grupo para tratar 2 puntos.
+1) Sabemos que el video excede el tiempo estipulado pero algunos nos inspiramos explicando la parte
+que nos toco realizar y no había forma de resumirla.
+2) Nos disculpamos como grupo de antemano.
+Tuvimos problemas de ultima hora con el funcionamiento de nuestro programa, al principio todo iba bien,
+pero ya después empezamos a tener problemas con las credenciales(BD), los 6 de nosotros lo cual no supimos resolver
+ya que eran las mismas credenciales que usamos desde el principio. 
+Sabemos que no es lo que pidio pero adjuntaremos algunas capturas de como se veria nuestro programa luego de pasar nuestro codigo
+por un generador de imagenes.
+Gracias por su atencion y comprension.
+
+ATT: El grupo #6 
